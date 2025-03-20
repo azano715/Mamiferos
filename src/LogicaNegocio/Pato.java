@@ -33,7 +33,7 @@ public class Pato extends Mamifero {
 
     @Override
     public void InformacionMamifero() {
-         System.out.println("Soy un pato y soy de raza" + "\t" + this.getColor());
+         System.out.println("Soy un pato de color" + "\t" + this.getColor());
     }
     
 }
